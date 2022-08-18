@@ -11,13 +11,4 @@ bookHidden: true
 hidden: true
 
 ---
-
-# A
-
-Gory details of topic A.
-
-Notes:
-* Description should be specific.
-* tags - user asigned single word associations
-* categories - existing classifications
-
+# Template post
