@@ -18,16 +18,16 @@ Specifics
 
 
 ## Who needs to act?
-- District Representation
-  - Representatives
-  - Senators
-- Committee(s)
-  - Members
+* District Representation
+    - Representatives
+    - Senators
+* Committee(s)
+    - Members
 
 ## Citizenry
-- State Precinct citizen support
-  - ? Sheridan County
-  - Other Wyoming counties 
+* State Precinct citizen support
+    - ? Sheridan County
+    - Other Wyoming counties 
 
 
 
