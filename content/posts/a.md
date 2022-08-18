@@ -1,14 +1,14 @@
 ---
-title: "A"
-description: "Description of topic A"
+title: "Definition"
+description: "Description of Definition"
 tags:
-   -  "A"
+   -  "define"
 date: "2022-06-10"
 categories:
-   - "Topic"
+   - "Definition"
 menu: "main"
 bookHidden: true
 hidden: true
 
 ---
-# Template post
+# Definition
